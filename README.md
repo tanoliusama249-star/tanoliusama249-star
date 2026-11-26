@@ -18,30 +18,19 @@ I'm a **UI/UX & Product Designer** with 4+ years of experience designing digital
     <td width="50%" valign="top">
       <a href="https://tanoliusama249-star.github.io/gta6-fan-site/"><img src="https://raw.githubusercontent.com/tanoliusama249-star/gta6-fan-site/main/.github/cover.jpg" alt="GTA VI fan site" /></a>
       <h4><a href="https://github.com/tanoliusama249-star/gta6-fan-site">GTA VI — Fan Site</a></h4>
-      Cinematic scroll-driven landing page: pinned scenes, a trailer with a custom cursor, and a 3D map card that morphs into a product card.<br/>
+      Cinematic scroll-driven landing page: a title-sequence loader, a self-assembling collage hero, a trailer with a custom cursor, a horizontal character carousel, and a 3D map card that morphs into a product card.<br/>
       <sub><b>HTML · CSS · JavaScript · GSAP · ScrollTrigger · Lenis</b></sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://tanoliusama249-star.github.io/vi-vice-city-site/"><img src="https://raw.githubusercontent.com/tanoliusama249-star/vi-vice-city-site/main/.github/cover.jpg" alt="VI Vice City concept" /></a>
-      <h4><a href="https://github.com/tanoliusama249-star/vi-vice-city-site">VI — Vice City Concept</a></h4>
-      Editorial concept site: a self-assembling collage, a fly-through of giant letters, a tilted 3D gallery wall and a horizontal character carousel.<br/>
-      <sub><b>HTML · CSS · JavaScript · GSAP · ScrollTrigger</b></sub>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://tanoliusama249-star.github.io/particle-portrait-hero/"><img src="https://raw.githubusercontent.com/tanoliusama249-star/particle-portrait-hero/main/.github/cover.jpg" alt="Particle portrait hero" /></a>
       <h4><a href="https://github.com/tanoliusama249-star/particle-portrait-hero">Particle Portrait Hero</a></h4>
       Interactive portfolio hero: a portrait made of thousands of particles that scatter around the cursor, with a live HUD overlay.<br/>
       <sub><b>HTML · Canvas 2D · JavaScript, with no libraries</b></sub>
     </td>
-    <td width="50%" valign="top">
-      <h4>🌐 More of my design work</h4>
-      Case studies, product UI and branding live on my portfolio:<br/><br/>
-      <a href="https://www.usama.design"><b>www.usama.design →</b></a>
-    </td>
   </tr>
 </table>
+
+🌐 **More of my design work:** case studies, product UI and branding live on my portfolio at **[www.usama.design](https://www.usama.design)**.
 
 ---
 
